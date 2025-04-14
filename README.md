@@ -1,4 +1,4 @@
- 🎭 Lobby Role Game
+ 🎭 PhasmoSuS
 
 Un mini-jeu en ligne de rôles secrets, conçu en React. Crée un lobby, rejoins des amis, attribue des rôles mystérieux et tente de deviner qui est qui !
 
