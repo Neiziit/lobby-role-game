@@ -39,4 +39,4 @@ npm start
 ```
 
 ## ✨ Auteur
-Made with ❤️ by @tonpseudo
+Made with ❤️ by @Neiziit
