@@ -36,3 +36,7 @@ git clone https://github.com/tonpseudo/lobby-role-game.git
 cd lobby-role-game
 npm install
 npm start
+```
+
+## ✨ Auteur
+Made with ❤️ by @tonpseudo
